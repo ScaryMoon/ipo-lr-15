@@ -7,9 +7,9 @@
 task_1/
     app/
         __init__.py
-        routes.py
-    main.py
-    README.md
+        [routes.py](http://routes.py)
+    [main.py](http://main.py)
+    [README.md](http://README.md)
     
 В routes.py реализовать маршруты:
 * / — приветствие
