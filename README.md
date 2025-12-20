@@ -6,15 +6,10 @@
 
 
  task_1/
- 
     app/
-    
         __init__.py
-        
-        routes.py
-        
+        routes.py   
     main.py
-    
     README.md
     
 В routes.py реализовать маршруты:
