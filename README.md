@@ -4,8 +4,8 @@
 Создать простейший веб‑сервис на Flask.
 Структура проекта:
 
-task_1/
-    app/
+# task_1/
+  #  app/
         __init__.py
         routes.py
     main.py
